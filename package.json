@@ -1,0 +1,20 @@
+{
+  "name": "Discord Quizzer",
+  "version": "0.0.1",
+  "description": "Quizzes you using a database of past HQ Trivia questions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
